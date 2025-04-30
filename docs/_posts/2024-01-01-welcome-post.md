@@ -6,7 +6,7 @@ layout: post
 
 In a world where technology is evolving at lightning speed, effective IT leadership is no longer just about managing systems,
 it’s about envisioning the future, driving transformation, and creating lasting value for the business. That’s why I’m proud
-to introduce IT Leadership Best Practice—a new digital platform built to support, inform, and inspire today’s technology
+to introduce IT Leadership Best Practice, a new digital platform built to support, inform, and inspire today’s technology
 leaders.
 
 This site brings together the insights, strategies, and lessons I’ve shared through my LinkedIn thought leadership series—now
@@ -22,7 +22,7 @@ You’ll find best practice guides, strategic frameworks, and actionable insight
   - Align IT with business value and sustainability goals
   - Lead high-performing, future-ready IT teams
 
-The goal is simple: to help you lead with clarity, confidence, and impact—no matter how complex the challenge.
+The goal is simple: to help you lead with clarity, confidence, and impact, no matter how complex the challenge.
 
 Whether you're modernizing legacy systems, exploring AIOps, or building your IT sustainability strategy, this platform is
 here to provide the practical guidance and inspiration you need to stay ahead.
