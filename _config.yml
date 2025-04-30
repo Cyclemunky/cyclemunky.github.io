@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IT Leadership Best Practice
+title: "IT Leadership Best Practice"
 email: "andrew.muncaster@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Discover IT Leadership Best Practice - expert insights, frameworks, and strategies for digital transformation, AIOps, cloud, cybersecurity, FinOps, and sustainable IT. Empowering tech leaders to drive innovation and resilience.
+  "Discover IT Leadership Best Practice - expert insights, frameworks, and strategies for digital transformation, AIOps, cloud, cybersecurity, FinOps, and sustainable IT. Empowering tech leaders to drive innovation and resilience."
 twitter_username: username
 github_username: "Cyclemunky"
 minimal_mistakes_skin: default
@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Andrew Muncaster"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://cyclemunky.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
